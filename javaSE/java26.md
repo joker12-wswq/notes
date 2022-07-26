@@ -60,8 +60,7 @@ while( (s = reader.readLine()) != null )//读取一行字符
 #### AWT包
 
 抽象窗口工具包，java做界面，对象可见
-
-<img src="E:/Program Files/Typora/img/image-20220712200001616.png" alt="image-20220712200001616" style="zoom:50%;" />
+![image-20220712201101552](https://user-images.githubusercontent.com/107198282/181004589-a0d48512-5dc5-4395-af88-e935e3723760.png)
 
 
 
@@ -191,7 +190,7 @@ CardLayout （卡片布局）
 
 ##### BorderLayout
 
-![image-20220712203525276](E:/Program Files/Typora/img/image-20220712203525276.png)
+![image-20220712203525276](https://user-images.githubusercontent.com/107198282/181004704-73bd42ec-c61d-4c76-9c31-c9d4dce45d02.png)
 
 - BorderLayout( ):生成默认的边界布局
 - BorderLayout(int horz,int vert): 可以设定组件间的水平和垂直距离
@@ -206,7 +205,7 @@ add(p1);
 
 ##### GridLayout
 
-<img src="E:/Program Files/Typora/img/image-20220712203554617.png" alt="image-20220712203554617"  />
+![image-20220712203554617](https://user-images.githubusercontent.com/107198282/181004770-013885e2-e8e2-4d39-b866-5d670428b22f.png)
 
 - GridLayout():生成一个单列的网格布局   
 
