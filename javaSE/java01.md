@@ -56,6 +56,7 @@ java完全面向对象，与现实契合。
 ##### 2.一次编写，到处运行
 
 运行机制：编译器编译成class文件（虚拟机接受的文件），然后jvm将文件解释成系统能识别的机器指令
+![image-20220524160821346-16533797030753](https://user-images.githubusercontent.com/107198282/180996915-e885b7ea-230e-4e04-9b94-e5b797d6dbd2.png)
 
 
 
@@ -67,16 +68,19 @@ java完全面向对象，与现实契合。
 #### 1.全名：开发者工具包
 
 #### 2.组成
+![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997009-84956d62-525d-43bf-a395-4cc2d99e17aa.png)
 
-![](E:/Program Files/Typora/img/image-20220524095525151.png)
+
 
 #### 3.*path❤
 
 编译需要找到bin目录，配置方便在任何盘符下都可以编译
+![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997116-7229493b-d7cb-466b-a7dd-41c1c43060ce.png)
 
 
 
 #### 4.java_home
+![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997192-f610537b-a957-482d-819f-c674838c0853.png)
 
 
 
@@ -98,6 +102,7 @@ java完全面向对象，与现实契合。
 
 获取class文件  -->加载到内存 -->验证 -->机器指令
 
+![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997278-0f71eeab-874f-4f36-9734-1d2cf77011d0.png)
 
 
 
@@ -127,6 +132,7 @@ java完全面向对象，与现实契合。
 - 程序计数器（指令计数器）--Program Counter Register:行号指示器。循环，跳转等基础指令
 
 - 本地方法栈--Native Method Stack:JVM调用native方法
+![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997357-e952666f-a926-4c21-a0f9-831f6a5b2d4a.png)
 
 
 
