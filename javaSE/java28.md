@@ -73,15 +73,15 @@ UDP(User Datagram Protocol): 用户数据报协议
 
 ==6.TCP三次握手确立连接==
 
-![image-20220714193532389](E:/Program Files/Typora/img/image-20220714193532389.png)
+![image-20220714193532389](https://user-images.githubusercontent.com/107198282/181005360-f1d52bce-6886-4a1f-9550-fcff6b5ebde2.png)
 
-<img src="E:/Program Files/Typora/img/image-20220714193601137.png" alt="image-20220714193601137" style="zoom: 80%;" />
+![image-20220714193601137](https://user-images.githubusercontent.com/107198282/181005389-5f4b9ba1-3507-4566-93c7-f1a5ac64cd99.png)
 
 ==7.TCP四次挥手断开连接==
 
-<img src="E:/Program Files/Typora/img/image-20220714193839889.png" alt="image-20220714193839889" style="zoom:80%;" />
+![image-20220714193839889](https://user-images.githubusercontent.com/107198282/181005423-eaf61277-a934-49fd-b7ee-0226bc4da8f3.png)
 
-<img src="E:/Program Files/Typora/img/image-20220714193948319.png" alt="image-20220714193948319" style="zoom:80%;" />
+![image-20220714193948319](https://user-images.githubusercontent.com/107198282/181005452-cb1f9745-fd58-497d-a364-a410c570ab35.png)
 
 8.UDP协议:
 
@@ -215,8 +215,9 @@ Try{
 ~~~
 
 ##### 5.Socket通信
+![image-20220714142039668](https://user-images.githubusercontent.com/107198282/181005563-2d076875-ba47-46ba-9bf7-81e35de234a8.png)
 
-<img src="E:/Program Files/Typora/img/image-20220714142039668.png" alt="image-20220714142039668" style="zoom:50%;" />
+
 
 单点连接，服务端与客户端通信
 
