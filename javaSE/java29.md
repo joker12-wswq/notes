@@ -9,7 +9,7 @@
 - UDP是一种无连接、不可靠传输的协议。
 - 将数据源IP、目的地IP和端口以及数据封装成数据包，大小限制在64KB内，直接发送出去即可。
 
-<img src="E:/Program Files/Typora/img/image-20220715170545731.png" alt="image-20220715170545731" style="zoom: 67%;" />
+![image-20220715170545731](https://user-images.githubusercontent.com/107198282/181005749-0d4d0f5b-f1d4-4f4d-98ab-50a571bafc38.png)
 
 ##### DatagramPacket:数据包对象( 韭菜盘子)
 
