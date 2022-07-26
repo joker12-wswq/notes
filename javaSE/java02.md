@@ -23,7 +23,7 @@ public class HelloWorld{
 
 2.当前目录找不到，会到path找
 
-<img src="E:/Program Files/Typora/img/image-20220524200506947.png" style="zoom:150%;" />
+![image-20220524200506947](https://user-images.githubusercontent.com/107198282/180998186-b9c0e1b7-5d83-4173-9e4b-fad28f4c2aac.png)
 
 3.class字节码文件不一定是主类，主类供虚拟机调
 
@@ -51,9 +51,9 @@ s = "Hello World!"        在方法区的常量池中开辟空间，Hello World!
 
 toString    把s的值输出，该方法被重写了
 
-<img src="E:/Program Files/Typora/img/image-20220525105310776-16534471952768.png" alt="image-20220525105310776" style="zoom:150%;" />
+![image-20220525214329521-16534862120491](https://user-images.githubusercontent.com/107198282/180998403-9bf50e1d-0d98-4996-91c3-ba2cf9802713.png)
+![image-20220525105310776](https://user-images.githubusercontent.com/107198282/180998467-d71db69a-6307-400a-a45d-e5d9df6a635b.png)
 
-![image-20220525214329521](E:/Program Files/Typora/img/image-20220525214329521-16534862120491.png)
 
 static: 告诉虚拟机如何找到主方法---->通过类找到主方法
 
@@ -75,7 +75,8 @@ public : 让虚拟机找到主方法
 
 2.权限修饰符
 
-![](E:/Program Files/Typora/img/image-20220525094820275.png)
+![image-20220525094820275](https://user-images.githubusercontent.com/107198282/180998534-5ced0e07-ea98-4e71-a25b-1b28bd115204.png)
+
 
 ## Java Applet
 
@@ -83,7 +84,8 @@ public : 让虚拟机找到主方法
 
 有主类，无主方法-->虚拟机不能直接执行，浏览器执行
 
-<img src="E:/Program Files/Typora/img/image-20220525112421026.png" alt="image-20220525112421026" style="zoom:150%;" />
+![image-20220525112421026](https://user-images.githubusercontent.com/107198282/180998618-81e43a18-5cb3-4d62-8ca6-4226e6ebd637.png)
+
 
 2.不安全
 
