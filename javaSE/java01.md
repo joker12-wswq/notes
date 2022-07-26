@@ -1,6 +1,7 @@
 ## java的优点（高级编程语言）
 
-![image-20220524091926063](E:/Program Files/Typora/img/image-20220524091926063.png)
+![image-20220524091926063](https://user-images.githubusercontent.com/107198282/180995043-828b4d7b-47de-4e5d-801f-46276d111129.png)
+
 
 1.简单
 
@@ -56,9 +57,8 @@ java完全面向对象，与现实契合。
 
 运行机制：编译器编译成class文件（虚拟机接受的文件），然后jvm将文件解释成系统能识别的机器指令
 
-![image-20220524160821346](E:/Program Files/Typora/img/image-20220524160821346-16533797030753.png)
 
-![image-20220524095951063](E:/Program Files/Typora/img/image-20220524095951063.png)
+
 
 
 
@@ -74,11 +74,11 @@ java完全面向对象，与现实契合。
 
 编译需要找到bin目录，配置方便在任何盘符下都可以编译
 
-![image-20220524100152167](E:/Program Files/Typora/img/image-20220524100152167.png)
+
 
 #### 4.java_home
 
-![image-20220524100612007](E:/Program Files/Typora/img/image-20220524100612007.png)
+
 
 #### 5.JDK8配置教程
 
@@ -98,7 +98,7 @@ java完全面向对象，与现实契合。
 
 获取class文件  -->加载到内存 -->验证 -->机器指令
 
-![image-20220524160619784](E:/Program Files/Typora/img/image-20220524160619784-16533795847891.png)
+
 
 
 
@@ -128,7 +128,6 @@ java完全面向对象，与现实契合。
 
 - 本地方法栈--Native Method Stack:JVM调用native方法
 
-  <img src="E:/Program Files/Typora/img/image-20220526090654761.png" alt="image-20220526090654761" style="zoom: 200%;" />
 
 
 
