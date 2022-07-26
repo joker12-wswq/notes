@@ -75,12 +75,13 @@ java完全面向对象，与现实契合。
 #### 3.*path❤
 
 编译需要找到bin目录，配置方便在任何盘符下都可以编译
-![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997116-7229493b-d7cb-466b-a7dd-41c1c43060ce.png)
+
 
 
 
 #### 4.java_home
-![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997192-f610537b-a957-482d-819f-c674838c0853.png)
+![image-20220524100152167](https://user-images.githubusercontent.com/107198282/180997924-71fe42aa-cf53-4fda-8298-29d5af617621.png)
+
 
 
 
@@ -102,7 +103,8 @@ java完全面向对象，与现实契合。
 
 获取class文件  -->加载到内存 -->验证 -->机器指令
 
-![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997278-0f71eeab-874f-4f36-9734-1d2cf77011d0.png)
+![image-20220524160821346-16533797030753](https://user-images.githubusercontent.com/107198282/180997644-5c49d16c-83e5-4748-b73e-9c1782174c5f.png)
+
 
 
 
@@ -132,7 +134,8 @@ java完全面向对象，与现实契合。
 - 程序计数器（指令计数器）--Program Counter Register:行号指示器。循环，跳转等基础指令
 
 - 本地方法栈--Native Method Stack:JVM调用native方法
-![image-20220524095525151](https://user-images.githubusercontent.com/107198282/180997357-e952666f-a926-4c21-a0f9-831f6a5b2d4a.png)
+
+![image-20220524160619784-16533795847891](https://user-images.githubusercontent.com/107198282/180997553-c6911e0b-8aea-4edb-97d3-d26a63713967.png)
 
 
 
