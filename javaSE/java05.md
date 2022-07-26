@@ -66,4 +66,4 @@ java文档化工具：javadoc 注释可以用于生成API文档，不能收集�
 
 例如：
 
-![image-20220531085002885](E:/Program Files/Typora/img/image-20220531085002885.png)
+![image-20220531085002885](https://user-images.githubusercontent.com/107198282/181000965-3988b127-c0a0-4f6c-b72c-d2e0b7bfa297.png)
