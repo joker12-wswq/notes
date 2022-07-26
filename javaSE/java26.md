@@ -60,7 +60,8 @@ while( (s = reader.readLine()) != null )//读取一行字符
 #### AWT包
 
 抽象窗口工具包，java做界面，对象可见
-![image-20220712201101552](https://user-images.githubusercontent.com/107198282/181004589-a0d48512-5dc5-4395-af88-e935e3723760.png)
+![image-20220712200001616](https://user-images.githubusercontent.com/107198282/181004987-409dc523-44ca-4778-b4da-66b2ac07ab8a.png)
+
 
 
 
@@ -89,7 +90,7 @@ f.setVisible(true);//设置可见
 
 #### AWT组件
 
-<img src="E:/Program Files/Typora/img/image-20220712201101552.png" alt="image-20220712201101552" style="zoom:50%;" />
+![image-20220712201101552](https://user-images.githubusercontent.com/107198282/181004589-a0d48512-5dc5-4395-af88-e935e3723760.png)
 
 ##### 标签
 
