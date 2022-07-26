@@ -13,7 +13,7 @@
 		//System.out.println(stringArray[5]);数组下标越界
 ~~~
 
-![案例5-2 内存图](E:/Program Files/Typora/img/案例5-2 内存图.JPG)
+![案例5-2 内存图](https://user-images.githubusercontent.com/107198282/181002302-4bbcf027-845c-47ec-aa8a-89f42eaf1303.JPG)
 
 #### 初始化
 
@@ -96,8 +96,10 @@ System.out.println(元素名);//输出
 冒泡次数（比较轮数）：length-1
 
 交换次数：length-1-i
+![20180606142602783](https://user-images.githubusercontent.com/107198282/181002460-eab46ee5-7c36-49e4-a147-5e8ebbc94df6.gif)
 
-![img](E:/Program Files/Typora/img/aHR0cHM6Ly9pbWFnZXMyMDE3LmNuYmxvZ3MuY29tL2Jsb2cvODQ5NTg5LzIwMTcxMC84NDk1ODktMjAxNzEwMTUyMjMyMzg0NDktMjE0NjE2OTE5Ny5naWY.gif)
+
+
 
 代码
 
