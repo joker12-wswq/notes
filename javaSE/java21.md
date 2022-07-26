@@ -16,7 +16,7 @@
 
 2.ApI层次结构
 
-![image-20220705163605629](E:/Program Files/Typora/img/image-20220705163605629.png)
+![image-20220705163605629](https://user-images.githubusercontent.com/107198282/181003288-78407672-ce81-47f1-9ca6-1370471434f7.png)
 
 3.常用方法
 
@@ -88,8 +88,9 @@
 ~~~
 
 ## list
+![image-20220705164347363](https://user-images.githubusercontent.com/107198282/181003355-48293ca1-0040-4282-97dd-8ea16a87a7bf.png)
 
-![image-20220706085528231](E:/Program Files/Typora/img/image-20220706085528231.png)
+
 
 有序可重复
 
@@ -177,7 +178,8 @@ enumeration线程安全
 		System.out.println(map);//类型@key=value
 ~~~
 
-![](E:/Program Files/Typora/img/案例9-16 HashTest 内存图.JPG)4.常用方法
+![案例9-16 HashTest 内存图](https://user-images.githubusercontent.com/107198282/181003518-11ec3510-197c-4bb0-b94f-ac15d01a8e02.JPG)
+
 
 - 存储键值对    put
 
@@ -239,5 +241,5 @@ System.out.println(persons.isEmpty());//true
 
 5.层次结构
 
-![image-20220705164347363](E:/Program Files/Typora/img/image-20220705164347363.png)
+![image-20220705164347363](https://user-images.githubusercontent.com/107198282/181003611-0762984f-96c2-4a59-b997-5490509db9f2.png)
 
