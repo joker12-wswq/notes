@@ -6,7 +6,7 @@
 
 #### 2.具体
 
-![image-20220606170602474](E:/Program Files/Typora/img/image-20220606170602474.png)
+![image-20220606170602474](https://user-images.githubusercontent.com/107198282/181001808-4aeaf5bd-7d4a-412f-ac73-48690f6ee83d.png)
 
 #### 3.算术运算符
 
@@ -113,7 +113,8 @@
 	System.out.println(str1 == "Hello");//false，堆内地址与常量池比较
 ~~~
 
-![案例4-3 Equivalence 内存图](E:/Program Files/Typora/img/案例4-3 Equivalence 内存图.JPG)
+![案例4-3 Equivalence 内存图](https://user-images.githubusercontent.com/107198282/181001938-47b5dcaa-9046-46de-a9bb-1f1f0e8dc32e.JPG)
+
 
 #### 8.初始化与赋值
 
