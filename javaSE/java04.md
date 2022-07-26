@@ -3,12 +3,13 @@
 [参考]: https://blog.csdn.net/qq_37577735/article/details/88958406
 
 #### 引用数据类型
+![image-20220527154304334](https://user-images.githubusercontent.com/107198282/181000547-3a37fa91-63a6-4eaf-b084-eab7c9606695.png)
 
-![image-20220527154304334](E:/Program Files/Typora/img/image-20220527154304334.png)
 
 #### 基本数据类型
+![image-20220527154212793](https://user-images.githubusercontent.com/107198282/181000507-5114b3fd-7452-4cf8-b96c-417733397649.png)
 
-![image-20220527154230491](E:/Program Files/Typora/img/image-20220527154230491.png)
+
 
 ## 类
 
@@ -98,8 +99,8 @@
        }
 }
 ~~~
+![image-20220530144841051](https://user-images.githubusercontent.com/107198282/181000714-e1bd7268-7bf1-4cb1-ab72-06aeb2bb2048.png)
 
-![image-20220530144841051](E:/Program Files/Typora/img/image-20220530144841051.png)
 
 #### 信息的隐藏
 
