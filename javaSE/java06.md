@@ -2,7 +2,7 @@
 
 ###### 关键字列表（51个）：
 
-![image-20220531085530596](E:/Program Files/Typora/img/image-20220531085530596.png)
+![image-20220531085530596](https://user-images.githubusercontent.com/107198282/181001104-c826541a-4c10-46a6-bd86-0e70ec04aaaf.png)
 
 ###### 注意：
 
@@ -26,8 +26,9 @@ Java中<u>一些赋以特定的含义、并用做专门用途的单词</u>称为
 变量开辟空间的一种方式
 
 ###### 分类
+![image-20220531103550313](https://user-images.githubusercontent.com/107198282/181001145-5d90ae70-43e2-4ffa-9213-f7379d0f3dc1.png)
 
-![image-20220531103801510](E:/Program Files/Typora/img/image-20220531103801510.png)
+
 
 #### 基本数据类型
 
