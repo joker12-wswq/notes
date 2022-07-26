@@ -53,7 +53,7 @@
 
 #### 属性的声明
 
-<img src="E:/Program Files/Typora/img/image-20220526104551577.png" alt="image-20220526104551577" style="zoom:150%;" />
+
 
 #### 方法的声明
 
@@ -73,29 +73,21 @@
 
   必须进行调用；调用格式：方法名（...）
 
-<img src="E:/Program Files/Typora/img/image-20220526104701146.png" alt="image-20220526104701146" style="zoom:150%;" />
+
 
 #### 构造器的声明
 
-<img src="E:/Program Files/Typora/img/image-20220526111734284.png" alt="image-20220526111734284" style="zoom:150%;" />
+![image-20220526111734284](https://user-images.githubusercontent.com/107198282/180999867-d6a4305b-be7e-4ff7-9efe-a81bcdb1bded.png)
 
-<img src="E:/Program Files/Typora/img/image-20220526112032266.png" alt="image-20220526112032266" style="zoom:150%;" />
 
 - 默认有一个无参构造器，如果写了一个有参构造器，需要再写一个无参构造器，无参构造器才能使用。
 - <font color='red'><u>没有返回值概念</u></font>
 
-#### 重载
-
-![image-20220526110912228](E:/Program Files/Typora/img/image-20220526110912228.png)
-
-
 
 #### return
 
-![image-20220526111041472](E:/Program Files/Typora/img/image-20220526111041472.png)
 
 
 
-#### <font color='red'>this</font>
 
-<img src="E:/Program Files/Typora/img/image-20220526112708685.png" alt="image-20220526112708685" style="zoom: 100%;" />
+
