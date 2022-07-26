@@ -96,7 +96,8 @@ System.out.println(元素名);//输出
 冒泡次数（比较轮数）：length-1
 
 交换次数：length-1-i
-![20180606142602783](https://user-images.githubusercontent.com/107198282/181002460-eab46ee5-7c36-49e4-a147-5e8ebbc94df6.gif)
+![aHR0cHM6Ly9pbWFnZXMyMDE3LmNuYmxvZ3MuY29tL2Jsb2cvODQ5NTg5LzIwMTcxMC84NDk1ODktMjAxNzEwMTUyMjMyMzg0NDktMjE0NjE2OTE5Ny5naWY](https://user-images.githubusercontent.com/107198282/181002888-2b736caa-ebdd-4803-971c-775529aa07e5.gif)
+
 
 
 
@@ -220,7 +221,7 @@ System.out.println(元素名);//输出
 
 4. ###### 效果图
 
-   ![img](E:/Program Files/Typora/img/20180606142602783.gif)
+ ![20180606142602783](https://user-images.githubusercontent.com/107198282/181002460-eab46ee5-7c36-49e4-a147-5e8ebbc94df6.gif)
 
 5. ###### 代码
 
