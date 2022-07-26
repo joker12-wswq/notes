@@ -4,7 +4,7 @@
 
 ## AWT事件模型
 
-<img src="E:/Program Files/Typora/img/image-20220713095038846.png" alt="image-20220713095038846" style="zoom: 80%;" />
+![image-20220713095038846](https://user-images.githubusercontent.com/107198282/181005124-1bcc5de7-f444-4f1a-91f1-9422a18bbc0d.png)
 
 事件源：产生事件的对象
 
