@@ -14,7 +14,7 @@
 
 ##### 3.分类
 
-![img](E:/Program Files/Typora/img/wps1.jpg)
+![wps1](https://user-images.githubusercontent.com/107198282/181004177-9453bc21-75a3-4ec7-ad51-0387184989f2.jpg)
 
 根据外部，可分为：文件输入流、标准输入流、网络输入流，输出流也同理。
 
