@@ -1,0 +1,15 @@
+编译
+$(FileName)
+
+$(FileDir)
+
+动作:捕获控制台输出
+
+运行
+
+$(FileNameNoExt)
+
+$(FileDir)
+
+动作:无
+
