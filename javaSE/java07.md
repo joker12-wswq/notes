@@ -126,7 +126,8 @@ Double  k;//实例全局变量，没有static修饰
 
 3. 栈内方法调用完后，会自动释放空间
 
-![image-20220601165129102](E:/Program Files/Typora/img/image-20220601165129102.png)
+![image-20220601165129102](https://user-images.githubusercontent.com/107198282/181001595-d174a2dc-5186-43d2-a0d6-de402335f62a.png)
+
 
 ## 传值
 
@@ -162,6 +163,7 @@ Data d2 = d1;
 
 ## 编码风格
 
+~~~java
 ■Package (包): 
 	package banking;
 	package zte.nc;
@@ -170,6 +172,7 @@ Data d2 = d1;
 	class TestStudent
 ■Interface (接口)
 	interface Person;
+~~~
 
 变量，驼峰命名
 
