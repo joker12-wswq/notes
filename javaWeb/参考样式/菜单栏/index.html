@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Bootstrap 布局实例</title>
+  <script src="js/jquery-3.1.1.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<nav class="navbar navbar-inverse" role="navigation">
+  <div class="container-fluid">
+    <div class="collapse navbar-collapse" id="example-navbar-collapse">
+      <ul class="nav navbar-nav">
+        <li class="active"><a class="icon-bar" href="#">mylastday系统</a>
+        </li>
+        <li><a href="#">菜单1</a>
+        </li>
+        <li><a href="#">菜单2</a>
+        </li>
+        <li><a href="#">菜单3</a>
+        </li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a>欢迎您,admin</a>
+        </li>
+        <li><a href="#">安全退出</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm-2" id="menulist">
+      <a href="#" class="list-group-item active" onclick="loadPage('page1.html')">
+        <!-- 小图标样式设置 -->
+        产品信息</a>
+      <a href="#" class="list-group-item" onclick="loadPage('page2.html')">
+        大屏信息 </a>
+      <a href="#" class="list-group-item" onclick="loadPage('page3.html')">
+        用户管理</a>
+      <a href="#" class="list-group-item">
+        菜单4</a>
+      <a href="#" class="list-group-item">
+        菜单5</a>
+      <a href="#" class="list-group-item">
+        菜单6</a>
+      <a href="#" class="list-group-item">
+        菜单7</a>
+    </div>
+    <!--左边菜单栏-->
+    <div class="col-sm-10" id="right">
+      <ol class="breadcrumb">
+        <li class="active">菜单
+        </li>
+        <li class="active">用户信息
+        </li>
+      </ol>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          搜索
+        </div>
+        <div class="panel-body">
+          <form role="form" class="form-inline">
+            <div class="form-group">
+              <label for="name">姓名</label>
+              <input type="text" class="form-control" id="name" placeholder="请输入姓名">
+            </div>
+            <div class="form-group">
+              <label for="name">状态</label>
+              <select class="form-control">
+                <option>正常</option>
+                <option>禁用</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <button type="submit" class="btn btn-default">开始搜索</button>
+            </div>
+          </form>
+        </div>
+      </div>
+      <!--
+          列表展示
+      -->
+      <div class="table-responsive">
+        <table class="table table-striped ">
+          <thead>
+          <tr>
+            <th>编号</th>
+            <th>用户名</th>
+            <th>性别</th>
+            <th>年龄</th>
+            <th>邮箱</th>
+            <th>状态</th>
+            <th>操作</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+            <td>15</td>
+            <td>ZZZ</td>
+            <td>女</td>
+            <td>33</td>
+            <td>aaa@163.com</td>
+            <td>正常</td>
+            <td>
+              <div class="btn-group">
+                <a href="" class="btn btn-default">修改</a><a href="" class="btn btn-default">禁用</a><a href="" class="btn btn-danger">删除</a>
+              </div>
+
+            </td>
+          </tr>
+
+          </tbody>
+        </table>
+      </div>
+      <ul class="pagination" style="float: right;">
+        <li><a href="#">&laquo;</a>
+        </li>
+        <li class="active"><a href="#">1</a>
+        </li>
+        <li class="disabled"><a href="#">2</a>
+        </li>
+        <li><a href="#">3</a>
+        </li>
+        <li><a href="#">4</a>
+        </li>
+        <li><a href="#">5</a>
+        </li>
+        <li><a href="#">&raquo;</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
+<!-- 底部页脚部分 -->
+<div class="footer">
+  <p class="text-center">
+    2019 &copy; mylastday.
+  </p>
+</div>
+</body>
+<script>
+  /*
+         * 对选中的标签**active状态，对先前处于active状态但之后未被选中的标签取消active
+         * （实现左侧菜单中的标签点击后变色的效果）
+         */
+  $(document).ready(function () {
+    $('#menulist> a').click(function (e) {
+      //e.preventDefault();    加上这句则导航的<a>标签会失效
+      $('#menulist> a').removeClass('active');
+      $(this).addClass('active');
+    });
+  });
+
+
+  function loadPage(url) {
+    $.get(url,function(data,status){
+      $("#right").html(data);
+    });
+  }
+</script>
+</html>>
